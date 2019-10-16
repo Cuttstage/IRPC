@@ -1,0 +1,2 @@
+random=com.sysu.cluster.loadbalance.RandomLoadBalance
+round=com.sysu.cluster.loadbalance.RoundLoadBalance

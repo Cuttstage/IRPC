@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="IRPC-api" />
+        <module name="IRPC-common" />
+        <module name="IRPC-provider" />
+        <module name="IRPC-cluster" />
+        <module name="IRPC-registry" />
+        <module name="IRPC-rpc" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
